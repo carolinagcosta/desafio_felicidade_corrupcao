@@ -1,5 +1,5 @@
 
-# Análise sobre o efeito da corrupção na felicidade 😁
+# Análise sobre a relação entre corrupção e felicidade 😁
 
 O presente projeto busca efetuar uma busca exploratória em uma base de dados que utiliza diversos fatores (variáveis) para calcular o índice mundial da felicidade.
 
