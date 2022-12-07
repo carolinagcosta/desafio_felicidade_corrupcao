@@ -2,12 +2,10 @@
 ---
 #### Neste estudo utilizamos um dataset com fatores (variáveis) que afetam a felicidade e sua relação com a corrupção em diferentes países entre 2015 e 2020.
 &nbsp;
-
 ### **Dataset**
 ---
 #### https://www.kaggle.com/datasets/eliasturk/world-happiness-based-on-cpi-20152020
 &nbsp;
-
 ### **Equipe**
 ---
 * Ana Carolina Armentano
