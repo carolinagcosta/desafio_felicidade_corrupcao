@@ -44,4 +44,4 @@ As colunas deste dataset são:
 - [Ana Carolina Galindo da Costa](https://github.com/carolinagcosta)
 - [Carlos Magno Barreto](https://github.com/cmpbj)
 - [Kaio Henrique de Jesus Santos](https://github.com/niggando)
-- [Gabriel Mariusso]()
+- [Gabriel Mariusso](https://github.com/mariussogab)
