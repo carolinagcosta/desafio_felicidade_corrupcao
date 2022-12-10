@@ -1,7 +1,7 @@
 
 # Análise sobre a relação entre corrupção e felicidade 😁
 
-O presente projeto busca efetuar uma busca exploratória em uma base de dados que utiliza diversos fatores (variáveis) para calcular o índice mundial da felicidade.
+O presente projeto tem como objetivo efetuar uma busca exploratória em uma base de dados que utiliza diversos fatores (variáveis) para calcular o índice mundial da felicidade.
 
 Projeto de cunho avaliativo, componente do quarto Módulo - Técnicas de Programação II, do programa **[Diversidade TECH](https://letscode.com.br/processos-seletivos/suzano-diversidade-tech)**, desenvolvido a partir de uma parceria entre a Let's Code by Ada e Suzano.
 
