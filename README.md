@@ -5,6 +5,9 @@ O presente projeto tem como objetivo efetuar uma busca exploratória em uma base
 
 Projeto de cunho avaliativo, componente do quarto Módulo - Técnicas de Programação II, do programa **[Diversidade TECH](https://letscode.com.br/processos-seletivos/suzano-diversidade-tech)**, desenvolvido a partir de uma parceria entre a Let's Code by Ada e Suzano.
 
+O projeto e suas análises podem ser encontradas na plataforma **[Streamlit](https://niggando-desafio-felicidade-c-streamlitstreamlit-version-sjw9ob.streamlit.app/)**.
+
+
 ---
 
 ## Origem do Dataset 🔎
