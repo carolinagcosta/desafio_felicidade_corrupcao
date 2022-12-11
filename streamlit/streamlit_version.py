@@ -621,4 +621,18 @@ elif multivar_option == 'dispersão':
                 
                 Quanto maior o score de CPI, ou seja, menos corrupto o governo aparenta ser, mais as pessoas são felizes. Já na África, nos locais onde o índice de CPI é mais alta, o score de felicidade continua baixo.
             """)
+
+st.markdown("""
+            ---
+            ## Conclusões Finais
+            """)
+
+with st.expander('Conclusões Finais'):
+    st.write("""
+            Neste estudo verificamos que diversos fatores, como PIB per capita, expectativa de vida, liberdade, confiança no governo e a perceção de ausência ou baixa corrupção no governo impactam diretamente na felicidade das pessoas.
+
+            Verificamos que mesmo em países com menor corrupção e mais confiança no governo, se não há PIB per capita alto, boa expectativa de vida e liberdade de expressão, as pessoas não são felizes.
+
+            Desta forma, concluímos que a corrupção impacta na felicidade das pessoas, embora diversas variáveis relacionadas a qualidade de vida são essenciais para atingir a felicidade.
+            """)
     
